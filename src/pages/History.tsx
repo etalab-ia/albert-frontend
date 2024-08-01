@@ -129,7 +129,7 @@ function QuestionsSidePanel({ selectedChatId }: { selectedChatId: number }) {
   const navigate = useNavigate()
 
   const handleButtonClick = () => {
-    navigate(`/meeting/${selectedChatId}`)
+    navigate(`/chat/${selectedChatId}`)
   }
   return (
     <div className="fr-pl-3w fade-in-left">
