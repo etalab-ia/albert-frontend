@@ -67,7 +67,7 @@ Nous utilisons [ViteJS](https://vitejs.dev/) pour construire le projet donc chaq
 
  ## API 
 
-[Voici tous les points d'accès utilisés par Albert](https://albert.etalab.gouv.fr/api/v2/docs#/)  
+[Voici tous les points d'accès utilisés par Albert](https://albert.etalab.gouv.fr/api/docs#/)  
 Note : La documentation des endpoints n'est pas encore complète.
 
 Albert front utilise [tanstack-query](https://tanstack.com/query/latest/docs/framework/react/overview) (react-query) pour interagir avec le backend.  
